@@ -1,0 +1,5 @@
+player1 7699
+sacola 7697
+player2 6968
+teste1 6703
+wellington 6672
